@@ -191,9 +191,8 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Brennan D Baraban** - [@bdbaraban](https://github.com/bdbaraban)
+* **Gedeon Obae Gekonge** - [@Gedeonobae](https://github.com/Gedeonobae)
 
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
 
 
 ## :mag: License
