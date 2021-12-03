@@ -199,7 +199,6 @@ $ cd Betty; ./install.sh
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-
 ## :mega: Acknowledgments
 
 * Holberton School (providing guidance)
