@@ -205,6 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Holberton School (providing guidance)
 * Stack Overflow (help on various memory errors (not leaks))
 
+
 <p align="center">
   <img src="https://theme.zdassets.com/theme_assets/10239256/f69718478ae7ecaaae43d9f8aefd9638c313b55e.jpg"
        alt="alx logo"
